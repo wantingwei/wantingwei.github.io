@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 
-Welcome to my corner of the internet! I am Wanting Wei, a thrid year Biophtsics PhD candidate at the Univeristy of Wisocnisn-Madison! 
+Welcome to my corner of the internet! 
 ------
 
-Check our interesting resarch about SARS-CoV-2 Prolonged infectoin!
+About me
+------
+I am Wanting Wei, a thrid year Biophtsics PhD candidate at the Univeristy of Wisocnisn-Madison! My research focus on how viruses evolve within individual hosts particaly on SARS-CoV-2 prolonged infection.
+
+I am also part of the Univeristy club - Wisolve! I served as project manager and the director of engagement, where I aim to find the intersection between science and business.
