@@ -6,11 +6,11 @@ main:
   - title: "Research & Work Experience"
     url: /research/    
     
-   - title: "CV"
+  - title: "CV"
     url: /cv/
 
-  - title: "Snowboard trip"
-    url: /snowboard
+  # - title: "Snowboard trip"
+  #   url: /snowboard/
         
   # - title: "Education"
   #   url: "education"   
